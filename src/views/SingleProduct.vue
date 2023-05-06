@@ -5,7 +5,7 @@
       <div class="row g-0 d-md-flex">
         <div class="col-lg-6 top-image">
           <a href="images/prod-1.jpg">
-            <img class="w-100" src="images/prod-1.jpg" alt="" />
+            <img class="w-100" src="/images/prod-1.jpg" alt="" />
           </a>
         </div>
         <div class="col-lg-6 mt-5 mt-lg-0">
